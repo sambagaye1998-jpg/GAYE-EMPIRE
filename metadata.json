@@ -1,0 +1,6 @@
+{
+  "name": "JBL Sénégal — JBL TUNE M65",
+  "description": "Boutique officielle en ligne pour commander votre casque JBL TUNE M65 au Sénégal avec commande directe sur WhatsApp et paiement à la livraison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
